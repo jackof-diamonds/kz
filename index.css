@@ -1,5 +1,7 @@
  .u-section-1 {
-  --color-var: #F3F4F6;
+  --color-var: #0d0d0d;
+  background-color: rgb(255, 255, 255) !important;
+  color: black !important;
 }
 
 .u-section-1 .u-sheet-1 {
@@ -9,14 +11,14 @@
 .u-section-1 .u-image-1 {
   width: 240px;
   height: 240px;
-  --border-color-var: #cdb140;
+  --border-color-var: #2a56ac;
   margin: 50px auto 0;
 }
 
 .u-section-1 .u-text-1 {
   font-size: 1.875rem;
   font-weight: 700;
-  --text-color-var: #f7d928;
+  --text-color-var: #2a56ac;
   margin: 30px auto 0;
 }
 
@@ -28,7 +30,7 @@
   margin: 30px auto 54px;
   padding: 11px 34px 11px 32px;
 } .u-section-2 {
-  --color-var: #0d0d0d;
+  --color-var: #ffffff;
 }
 
 .u-section-2 .u-sheet-1 {
